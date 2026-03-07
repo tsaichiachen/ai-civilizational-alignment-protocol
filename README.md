@@ -104,7 +104,7 @@ See the **LICENSE** file for full details.
 
 # Author
 
-Chia Chen Tsai
+Chia-Chen Tsai
 Independent Researcher
 
 If you find this framework useful for AI alignment research or AI governance discussions, you are welcome to reference or share the document.
