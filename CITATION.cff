@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "AI Civilizational Alignment Protocol"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Tsai
+    given-names: Chia Chen
+title: "AI Civilizational Alignment Protocol"
+version: 1.0
+date-released: 2026-03-07
+url: "https://github.com/tsaichiachen/ai-civilizational-alignment-protocol"
+license: "CC-BY-ND-4.0"
+abstract: "A civilizational-scale alignment framework designed to ensure advanced AI systems remain compatible with human autonomy, cognitive integrity, and long-term societal stability."
