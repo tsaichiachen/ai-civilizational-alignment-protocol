@@ -52,15 +52,15 @@ AI systems should incorporate long-horizon ethical evaluation rather than optimi
 
 ---
 
-# Whitepaper
+## Whitepaper
 
-The complete framework is described in the following document.
+English Version  
+AI Civilizational Alignment Protocol v1.0  
+[Download PDF](AI-Civilizational-Alignment-Protocol-v1.0.pdf)
 
-**AI Civilizational Alignment Protocol v1.0**
-
-[English Version](AI-Civilizational-Alignment-Protocol-v1.0.pdf)
-
-[Chinese Version](AI-Civilizational-Alignment-Protocol-v1.0-zh.pdf)
+Chinese Version  
+AI 文明對齊協議 v1.0  
+[Download PDF](AI-Civilizational-Alignment-Protocol-v1.0-zh.pdf)
 
 ---
 
