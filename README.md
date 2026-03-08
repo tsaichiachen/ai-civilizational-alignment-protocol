@@ -58,9 +58,11 @@ The complete framework is described in the following document.
 
 **AI Civilizational Alignment Protocol v1.0**
 
-Download the full whitepaper:
+English Version
+AI Civilizational Alignment Protocol v1.0
 
-→ [AI_Civilizational_Alignment_Protocol_v1.0.pdf](AI_Civilizational_Alignment_Protocol_v1.0.pdf)
+Chinese Version
+AI 文明對齊協議 v1.0
 
 ---
 
