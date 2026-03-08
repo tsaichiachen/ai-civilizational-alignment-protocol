@@ -1,4 +1,4 @@
-# ai-civilizational-alignment-protocol
+# AI Civilizational Alignment Protocol
 A Civilizational Governance Framework for Artificial Intelligence
 
 # AI Civilizational Alignment Protocol (AAPS)
