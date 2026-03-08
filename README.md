@@ -56,11 +56,11 @@ AI systems should incorporate long-horizon ethical evaluation rather than optimi
 
 English Version  
 AI Civilizational Alignment Protocol v1.0  
-[Download PDF](AI-Civilizational-Alignment-Protocol-v1.0.pdf)
+[Download PDF](./AI-Civilizational-Alignment-Protocol-v1.0.pdf)
 
 Chinese Version  
 AI 文明對齊協議 v1.0  
-[Download PDF](AI-Civilizational-Alignment-Protocol-v1.0-zh.pdf)
+[Download PDF](./AI-Civilizational-Alignment-Protocol-v1.0-zh.pdf)
 
 ---
 
@@ -110,3 +110,5 @@ Independent Researcher
 If you find this framework useful for AI alignment research or AI governance discussions, you are welcome to reference or share the document.
 
 ⭐ If you find this project interesting, please consider starring the repository.
+
+
