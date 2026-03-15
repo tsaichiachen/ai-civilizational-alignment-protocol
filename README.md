@@ -147,7 +147,7 @@ is available in the following LessWrong article:
 
 Civilizational Cognitive Security: Protecting Human Autonomy in AI-Mediated Societies
 
-[LessWrong link]
+[LessWrong link] https://www.lesswrong.com/posts/E33K3hxbpdopGsJqD/ai-is-quietly-eroding-human-autonomy-a-civilizational
 
 The article explains the civilizational-scale risks that motivated
 the development of the AI Civilizational Alignment Protocol (AAPS).
